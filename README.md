@@ -18,7 +18,19 @@ A simple yet efficient **Java-based Bank Account Management System** designed to
 - ☕ **Java** - Core programming language
 - 🏗️ **OOP Principles** - Classes, Objects, Inheritance, Encapsulation
 - 📝 **File Handling** - Saving and retrieving account data
+- 🗄️ **SQL (MySQL)** - Managing and storing account data
 - 💻 **Eclipse IDE** *(optional)* - For running and managing the project
+
+---
+
+## 📄 How It Works
+
+1. The Java application allows users to create a bank account, deposit, withdraw, and check their balance.
+2. The SQL script (`BankAccountSolution.sql`) is used to:
+   - Create a table for storing account information.
+   - Insert initial account data.
+   - Simulate deposit and withdrawal transactions.
+   - Retrieve the current balance from the database.
 
 ---
 
@@ -32,10 +44,7 @@ A simple yet efficient **Java-based Bank Account Management System** designed to
 
 
 
-
-
-
-Usage Example
+ Usage Example
 Once you run the program, you should see options like:
 
 
@@ -44,15 +53,3 @@ Welcome to the Bank Account Management System!
 2. Withdraw Money
 3. Check Balance
 4. Exit
-
-
-
-
-Technologies Used
-Java 17
-Eclipse IDE (or any Java IDE)
-
-
-
-
-
