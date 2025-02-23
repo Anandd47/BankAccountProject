@@ -53,3 +53,8 @@ Welcome to the Bank Account Management System!
 2. Withdraw Money
 3. Check Balance
 4. Exit
+
+📂 Technologies Used
+Java 17
+SQL (MySQL)
+Eclipse IDE (or any Java IDE)
